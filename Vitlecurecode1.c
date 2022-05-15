@@ -23,7 +23,7 @@ int main()
     }
     else
     {
-       printf(" %c%c%c%c%c sate nashe band kar\n ",k,h,t,q,i);
+       printf(" %c%c%c%c%c saste nashe band kar\n ",k,h,t,q,i);
     
 
     } 
